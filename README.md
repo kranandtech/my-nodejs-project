@@ -1,3 +1,5 @@
+# set up database
+import node_db.sql in phpmydmin
 # Steps to set project locally[Windows]
 - Go to terminal. Run below command:
      git clone https://github.com/kranandtech/my-nodejs-project.git
